@@ -1,0 +1,27 @@
+$name : Random Words
+$author : White Sky
+$description : Generates a random word.
+$amount : 5
+$picture : http://fs5.directupload.net/images/151103/8683u8d6.png
+$button : Print
+
+$name
+Rumble
+Thunderlane
+
+$word
+laughing
+laying
+
+$expression
+smug
+smile
+
+$feeling
+lustfull
+happy
+
+$phrase
+[name], [word], [expression], [feeling]
+
+<br><br>
